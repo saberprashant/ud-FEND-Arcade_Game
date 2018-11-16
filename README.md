@@ -8,6 +8,7 @@
 - [Contributing](#contributing)
 
 ## Instructions
+- Run `index.html` directly to run the game.
 - `js/resources.js` contains the resources of the project. You don'e have to change this.
 - `js/engine.js` contains the code to run the game. You don't have to change this.
 - `js/app.js` contains the main logic for the game. You can change this if you want to modify the game.
